@@ -72,6 +72,4 @@ While building this project, I got hands-on experience with:
 * Fetching and handling data from an external API (GitHub API)
 * Managing components and props effectively in React
 
----
 
-Would you like me to also make this **README more engaging like a portfolio showcase**, so that if a recruiter sees it, it looks impressive and professional?
